@@ -97,7 +97,7 @@ print("Procentowa różnica wzg mon_sell: {:.2f}%".format(percent_diff))
 
 
 
-#mon_sell.to_csv("../data/SELL_1_cleaned.csv", sep=";", encoding="cp1250", index=False)
-#day_sell.to_csv("../data/Day_sell_cleaned.csv", sep=";", encoding="cp1250", index=False)
+mon_sell.to_csv("../data/SELL_1_cleaned.csv", sep=";", encoding="cp1250", index=False)
+day_sell.to_csv("../data/Day_sell_cleaned.csv", sep=";", encoding="cp1250", index=False)
 
 print("Pliki zapisane do CSV.")
