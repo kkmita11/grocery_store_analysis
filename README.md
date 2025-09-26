@@ -57,13 +57,6 @@ Raport Power BI składa się z dwóch stron:
 
 ---
 
-## 🚀 Możliwe rozszerzenia
-- Analiza koszykowa (produkty kupowane razem)  
-- Wpływ promocji na sprzedaż i marżę  
-- Prognozowanie sprzedaży  
-
----
-
 ## ⚖️ Licencja i wykorzystanie danych
 - Źródło danych: Kaggle (`Data files © Original Authors`).  
 - Szczegóły licencji nie są jasne – nie wiadomo, czy wolno dalej dystrybuować pliki.  
@@ -127,13 +120,6 @@ The Power BI report consists of two pages:
 - **Python (Pandas)** – data preparation  
 - **Power BI Desktop** – modeling and visualization  
 - **DAX** – analytical measures  
-
----
-
-## 🚀 Possible Extensions
-- Basket analysis (frequently bought together)  
-- Promotion impact on sales and margin  
-- Sales forecasting  
 
 ---
 
